@@ -1,4 +1,4 @@
-## Usin Laravel 10
+## Usin Laravel 11
 ## How to Install
 1. composer install
 2. npm i
