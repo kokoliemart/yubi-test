@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Rani/Downloads/**)",
+      "Bash(php artisan make:migration:*)",
+      "Bash(C:laragonbinphpphp-8.3.9-Win32-vs16-x64php.exe artisan make:migration create_sales_orders_table)",
+      "Bash(php artisan make:model:*)",
+      "Bash(php artisan make:controller:*)",
+      "Bash(php artisan:*)",
+      "Bash(createdb:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npx shadcn@latest add:*)",
+      "Bash(psql:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
